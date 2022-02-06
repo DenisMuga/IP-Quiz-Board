@@ -4,6 +4,8 @@ body{
     font-size: 15px;
     font-weight: bolder;
     margin-left: 10%;
+    height: 40vh;
+    line-height: 1px;
 }
 #button{
     background-color: rgb(52, 107, 228);
