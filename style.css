@@ -5,3 +5,13 @@ body{
     font-weight: bolder;
     margin-left: 10%;
 }
+#button{
+    background-color: rgb(52, 107, 228);
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    width: 10vw;
+    border-radius: 10%;
+    border: white;
+
+}
