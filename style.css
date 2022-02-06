@@ -25,4 +25,6 @@ body{
 .quiz-board{
     color: black;
     text-align: center;
+    font-family:'Hanalei Fill', cursive;
+    font-weight: lighter;
 }
