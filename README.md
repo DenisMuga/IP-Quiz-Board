@@ -31,6 +31,9 @@ The aim of this project is to create a QUIZ BOARD using HTML, CSS, and JavaScrip
 To get a demenonstration of the final deployment of my page please follow this link
 The demonstration of the project's live deployment is available in the link below:
 [live-link](https://denismuga.github.io/IP-Quiz-Board/)
+## Reference
+* To view the conceptual model of the project, use the Figma link below:
+(https://www.figma.com/file/ocPtrYWRAIYFNU1w3TvzvT/Quiz-Board-Project?node-id=0%3A1)
   ## Licence
 MIT License
 Copyright (c) [2022] [Denis Muga]
