@@ -14,4 +14,12 @@ function check(){
     if(q5=="italic()"){c+=20}
     // questions.style.display="none";
     outcome.textContent=(c+"%");
+
+    if (c>=80) {
+        alert("You excellently passed");
+    } else if (c>=50 && c<=80){
+        alert("You have fairly passed");
+    } else{
+        alert("You have scored poorly. You need to retake the test")
+    }
 }
