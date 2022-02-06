@@ -15,7 +15,7 @@ Portfolio
 
 ##Description
 The aim of this project is to create a QUIZ BOARD using HTML, CSS, and JavaScript concepts. The project ensures best user experience by ensuring that students can answer various multiple choice questions and get their scores after the application computes their final score. Besides the QUIZ BOARD alerts the students by letting them know whether they have passed excellently, fairly, or poorly depending on their score percentages. A poor score below 50% alerts students to retake the test. The project is primarly designed for desktops.
-![desktop](./images/quizboard.png) This is the desktop rendition.
+![desktop](./images/quizboard.png)-This is the desktop rendition.
 ## Set-up
 ### Vitals
 * A computer or a desktop in good working condition.
@@ -26,10 +26,11 @@ The aim of this project is to create a QUIZ BOARD using HTML, CSS, and JavaScrip
 ## Technology Used
 * Vanilla HTML is essential in building this project.
 * CSS for styling the webpage by incorporating key concepts such as align-contents, width, classes, IDs, and background color, among others.
+* JavaScript language to facilitate interactivity with the users.
 ## The live link
 To get a demenonstration of the final deployment of my page please follow this link
 The demonstration of the project's live deployment is available in the link below:
-[live-link](https://github.com/DenisMuga/Wee2IP-Insurance-Website/tree/master)
+[live-link](https://denismuga.github.io/IP-Quiz-Board/)
   ## Licence
 MIT License
 Copyright (c) [2022] [Denis Muga]
